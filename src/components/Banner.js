@@ -105,4 +105,20 @@ const Banner = () => {
 export default Banner;
 
 
+section>
+  );
+};
 
+export default Banner;
+section>
+  );
+};
+
+export default Banner;
+section>
+  );
+};
+
+export default Banner;
+
+faefafewadv  fvefver fvfv 
