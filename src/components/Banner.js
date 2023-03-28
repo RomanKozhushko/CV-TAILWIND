@@ -105,10 +105,6 @@ const Banner = () => {
 export default Banner;
 
 
-section>
-  );
-};
-
 export default Banner;
 section>
   );
