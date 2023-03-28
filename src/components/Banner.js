@@ -107,6 +107,6 @@ export default Banner;
 
 
 
-export default Banner;
+
 
 faefafewadv  fvefver fvfv 
