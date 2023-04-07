@@ -100,11 +100,7 @@ const Services = () => {
 
 export default Services;
 
-
-     <div className="border-b border-white/20 h-[176px] mb-[38px]
-     flex" key={index}>
-       <div className="max-w-[476px] ">
-         <h4
+<h4
            className="text-[20px] tracking-wider font-primary 
        font-semibold mb-6"
          >
