@@ -132,6 +132,4 @@ export default Services;
  })}
 </div>
 </motion.div>
-</div>
-</div>
-</section>
+<
