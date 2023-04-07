@@ -127,9 +127,3 @@ export default Services;
            {link}
          </a>
        </div>
-     </div>
-   );
- })}
-</div>
-</motion.div>
-<
