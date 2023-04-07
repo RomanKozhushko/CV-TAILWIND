@@ -100,14 +100,7 @@ const Services = () => {
 
 export default Services;
 
-<h4
-           className="text-[20px] tracking-wider font-primary 
-       font-semibold mb-6"
-         >
-           {name}
-         </h4>
-         <p className="font-secondary leading-tight ">
-           {description}
+
          </p>
        </div>
        <div className="flex flex-col flex-1 items-end ">
