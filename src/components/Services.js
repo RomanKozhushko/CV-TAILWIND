@@ -101,10 +101,6 @@ const Services = () => {
 export default Services;
 
 
-
-   //destructure service
-   const { name, description, link } = service;
-   return (
      <div className="border-b border-white/20 h-[176px] mb-[38px]
      flex" key={index}>
        <div className="max-w-[476px] ">
