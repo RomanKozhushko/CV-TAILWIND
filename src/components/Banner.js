@@ -166,14 +166,7 @@ se, amount: 0.7 }}
           {/*{Sosial}*/}
           {/*{image}*/}
           <motion.div
-            variants={fadeIn('down', 0.5)}
-            initial='hidden'
-            whileInView={'show'}
-            className = 'hidden lg:flex flex-1 max-w-[320px] lg:max-w-[482px]'>
-            <img src={Image} alt="" />
-     
-
-
+           
 
 
 
