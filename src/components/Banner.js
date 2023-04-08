@@ -112,28 +112,3 @@ export default Banner;
 
 
 
-p', 0.4)}
-              initial='hidden'
-              whileInView={'show'}
-              viewport={{ once: false, amount: 0.7 }}
-              className="mb-6 text-[36px] lg:text-[60px] font-secondary 
-        font-semibold uppercase leading-[1]"
-            >
-              <span className=" text-white mr-4">I am a</span>
-              <TypeAnimation
-                sequence={["Developer", 2000, "Designer", 2000, "Artist", 2000]}
-                speed={50}
-                className="text-accent"
-                wrapper="span"
-                rauto lg:mx-0">
-              lorem afq asf asoas asoasdjnao lorem afq asf asoas asoasdjnao lorem
-              afq asf asoas asoasdjnao lorem afq asf asoas asoasdjnao
-            </motion.p>
-            <motion.div
-              variants={fadeIn('up', 0.6)}
-              initial='hidden'
-              whileInView={'show'}
-              viewport={{ once: false, amount: 0.7 }}
-              className="flex max-w-max gap-x-6 items-center mb-12 mx-auto lg:mx-0">
-          
-
