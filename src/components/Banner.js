@@ -156,16 +156,7 @@ se, amount: 0.7 }}
                 <FaYoutube />
               </a>
               <a href="#">
-                <FaGithub />
-              </a>
-              <a href="#">
-                <FaLinkedin />
-              </a>
-            </motion.div>
-          </div>
-          {/*{Sosial}*/}
-          {/*{image}*/}
-          <motion.div
+ 
            
 
 
