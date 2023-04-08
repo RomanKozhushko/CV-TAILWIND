@@ -131,15 +131,7 @@ se, amount: 0.7 }}
                 speed={50}
                 className="text-accent"
                 wrapper="span"
-                repeat={Infinity}
-              />
-            </motion.div>
-            <motion.p
-              variants={fadeIn('up', 0.5)}
-              initial='hidden'
-              whileInView={'show'}
-              viewport={{ once: false, amount: 0.7 }}
-              className="mb-8 max-w-lg mx-auto lg:mx-0">
+                rauto lg:mx-0">
               lorem afq asf asoas asoasdjnao lorem afq asf asoas asoasdjnao lorem
               afq asf asoas asoasdjnao lorem afq asf asoas asoasdjnao
             </motion.p>
