@@ -113,11 +113,7 @@ export default Banner;
 
 
 
-
-              variants={fadeIn('up', 0.3)}
-              initial='hidden'
-              whileInView={'show'}
-              viewport={{ once: false, amount: 0.7 }}
+se, amount: 0.7 }}
               className="text-[55px] font-bold leading-[0.8] lg:text-[110px] ">
               ROMAN <span>KOZHUSHKO</span>
             </motion.h1>
