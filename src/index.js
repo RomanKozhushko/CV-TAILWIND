@@ -14,6 +14,6 @@ root.render(
 
 
 import React from 'react';
-import ReactDOM from 'react-dom/clien
+import ReactDOM from 'react-do
 
 
